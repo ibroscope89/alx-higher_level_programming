@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-str = "Holberton School"
+number = 98
 print(f"{98} Battery street")
